@@ -13,7 +13,7 @@ import java.util.Scanner;
     crear listas de compras y marcar los artículos a medida que los compran.
 
     */
-public class ListaDeCompras {
+public class ChavezPablo_HurtadoOscar {
 
     private static final int MAX_ITEMS = 100; // número máximo de elementos que se pueden agregar a una lista
     private static final int MAX_CHARACTERS = 50; // longitud máxima de un artículo
