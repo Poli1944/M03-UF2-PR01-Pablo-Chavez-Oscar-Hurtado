@@ -1,5 +1,8 @@
 /**
  * @authors: Pablo Chavez, Oscar Hurtado
+ * @version: 1.0
+ * @date: 2023/3/12
+ * @link: https://github.com/Poli1944/M03-UF2-PR01-Pablo-Chavez-Oscar-Hurtado
  */
 import java.util.ArrayList;
 import java.util.Scanner;
