@@ -1,39 +1,20 @@
 # M03-UF2-PR01-Pablo-Chavez-Oscar-Hurtado
 Practica de java M03-UF2-PR01
-Lista de compras en Java
-Esta es una aplicación de lista de compras en Java, que permite a los usuarios crear listas de compras, agregar y marcar items, y ver estadísticas sobre la lista.
+Aplicació de llista de compra
+Aquesta aplicació de llista de compra ha estat desenvolupada per la parella de programadors Pablo Chavez i Oscar Hurtado.
 
-Autores
-Pablo Chavez
-Oscar Hurtado
-Características de la aplicación
-La aplicación de lista de compras en Java incluye las siguientes características:
+Temàtica del programa
+L'aplicació té com a temàtica la gestió de les llistes de compra. El seu objectiu és permetre als usuaris crear llistes de compra i marcar els articles a mesura que els comprin.
 
-Crear una lista de compras
-Agregar items a la lista de compras
-Marcar items de la lista de compras como comprados
-Ver la lista completa de items de la lista de compras
-Ver la cantidad total de items en la lista de compras
-Ver la cantidad de items marcados como comprados
-Ver la cantidad de items no marcados como comprados
-Salir de la aplicación
-Cómo ejecutar la aplicación
-Para ejecutar la aplicación, siga los siguientes pasos:
+Funcionalitats de l'aplicació
+L'aplicació de llista de compra en Java té les següents funcionalitats:
 
-Clonar o descargar este repositorio.
-Abrir el proyecto en su IDE favorito (por ejemplo, Eclipse o IntelliJ).
-Ejecutar la clase Main desde su IDE.
-Seguir las instrucciones en pantalla para interactuar con la aplicación.
-Tecnologías utilizadas
-La aplicación de lista de compras en Java fue implementada utilizando las siguientes tecnologías y conceptos de programación:
+Crear una nova llista de compra.
+Afegir nous articles a la llista.
+Marcar els articles de la llista com a comprats.
+Mostrar estadístiques de la llista, com ara la quantitat total d'articles, la quantitat d'articles comprats i la quantitat d'articles que encara no s'han comprat.
+Sortir de l'aplicació.
+Formats diferents de Markdown
+En aquesta documentació s'han utilitzat diversos formats de Markdown, com ara llistes, enllaços i emojis, per a fer-la més llegible i visualment atractiva per als lectors.
 
-Java 8
-Programación orientada a objetos (POO)
-Colecciones (ArrayList)
-Control de errores
-Recursividad
-Contribuciones
-Si desea contribuir a esta aplicación, puede hacer lo siguiente:
-
-Reportar un error o una sugerencia utilizando el sistema de seguimiento de problemas de GitHub.
-Realizar una bifurcación del proyecto y enviar una solicitud de extracción para proponer cambios en el código fuente.
+Esperem que aquesta aplicació de llista de compra sigui útil per als usuaris que necessitin organitzar les seves compres i portar un registre dels seus despeses al supermercat. Si teniu algun comentari o suggeriment per a la millora de l'aplicació, si us plau, poseu-vos en contacte amb nosaltres.
